@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "eb24ad2be6669fd0089c1a67",
+  "owner": "efhhynrkm",
+  "repo": "page-5c37f4e30d0c04e0398230fa",
+  "title": "clashmi",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5c37f4e30d0c04e0398230fa",
+      "a": "clashmi",
+      "b": "",
+      "entity": "clashmi",
+      "brand": "clashmi",
+      "separator": "",
+      "path": "index.html",
+      "hash": "82e67566799b2cd302f0347c5d2e899db8d8b8c5dba1eb01353e23287e71eb41",
+      "content": {
+        "keyword1": "clashmi",
+        "keyword2": "",
+        "primary_entity": "clashmi",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi 提供专业VPN加速器与客户端下载服务，支持多设备在线，解锁流媒体。选择适合您的套餐，享受高速稳定网络体验！",
+          "AI_DESCRIPTION": "clashmi 提供专业VPN加速器与客户端下载服务，支持多设备在线，解锁流媒体。选择适合您的套餐，享受高速稳定网络体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --coral: #ff6b6b;\n            --warm-white: #f8f5f0;\n            --dark: #2c2c2c;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--warm-white);\n            color: var(--dark);\n            line-height: 1.6;\n            font-size: 16px;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        .logo {\n            font-size: 28px;\n            font-weight: 700;\n            color: var(--coral);\n            padding: 20px 0;\n            text-align: center;\n        }\n        .hero {\n            background: linear-gradient(135deg, #fff 0%, #f8f5f0 100%);\n            padding: 80px 20px 60px;\n            text-align: center;\n            position: relative;\n        }\n        .hero h1 {\n            font-size: 3.2em;\n            color: var(--coral);\n            margin-bottom: 20px;\n            line-height: 1.2;\n        }\n        .hero p {\n            font-size: 1.3em;\n            max-width: 700px;\n            margin: 0 auto 40px;\n            color: #555;\n        }\n        .plans {\n            padding: 60px 20px;\n            background: white;\n        }\n        .plans h2 {\n            font-size: 2.2em;\n            text-align: center;\n            margin-bottom: 40px;\n            color: var(--dark);\n        }\n        .plan-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 30px;\n            max-width: 1100px;\n            margin: 0 auto;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 16px;\n            padding: 30px;\n            box-shadow: 0 8px 25px rgba(0,0,0,0.06);\n            transition: transform 0.3s ease;\n        }\n        .plan-card:hover {\n            transform: translateY(-8px);\n        }\n        .plan-card.featured {\n            border: 3px solid var(--coral);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: '推荐';\n            position: absolute;\n            top: -12px;\n            left: 50%;\n            transform: translateX(-50%);\n            background: var(--coral);\n            color: white;\n            padding: 4px 20px;\n            border-radius: 30px;\n            font-size: 14px;\n            font-weight: 600;\n        }\n        .plan-name {\n            font-size: 1.5em;\n            margin-bottom: 10px;\n            color: var(--dark);\n        }\n        .price {\n            font-size: 2.4em;\n            font-weight: 700;\n            color: var(--coral);\n            margin: 15px 0;\n        }\n        .annual {\n            color: #666;\n            font-size: 0.95em;\n            margin-bottom: 20px;\n        }\n        .features {\n            list-style: none;\n        }\n        .features li {\n            padding: 8px 0;\n            font-size: 1.05em;\n            color: #444;\n        }\n        .features li::before {\n            content: '✓';\n            color: var(--coral);\n            margin-right: 8px;\n        }\n        .section {\n            padding: 60px 20px;\n            max-width: 1000px;\n            margin: 0 auto;\n        }\n        h2 {\n            font-size: 2em;\n            margin-bottom: 30px;\n            color: var(--dark);\n            border-bottom: 3px solid var(--coral);\n            padding-bottom: 15px;\n            display: inline-block;\n        }\n        .faq {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            margin-bottom: 15px;\n        }\n        details {\n            padding: 20px;\n        }\n        summary {\n            font-weight: 600;\n            cursor: pointer;\n            font-size: 1.1em;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .footer {\n            background: #2c2c2c;\n            color: #ddd;\n            padding: 40px 20px;\n            text-align: center;\n            font-size: 0.95em;\n        }\n        .btn {\n            background: var(--coral);\n            color: white;\n            padding: 14px 32px;\n            border-radius: 30px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-block;\n            margin-top: 20px;\n            transition: background 0.3s;\n        }\n        .btn:hover {\n            background: #ff4d4d;\n        }\n        @media (max-width: 768px) {\n            .hero h1 {\n                font-size: 2.6em;\n            }\n            .plan-grid {\n                grid-template-columns: 1fr;\n            }\n        }\n    </style>\n\n\n    <header>\n        <div class=\"logo\">clashmi</div>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>clashmi 安全VPN加速器</h1>\n            <p>专业客户端下载与网络加速服务</p>\n        </section>\n\n        <section class=\"section\">\n            <h2>为什么选择clashmi</h2>\n            <p>clashmi 提供稳定高速的VPN加速器服务，让您的网络连接更加顺畅。无论日常浏览、在线游戏还是流媒体追剧，都能获得优质体验。</p>\n            <p>我们专注为用户提供安全可靠的网络加速解决方案，帮助您轻松解锁全球优质内容。</p>\n        </section>\n\n        <section class=\"section\">\n            <h2>套餐选择</h2>\n            <div class=\"plan-grid\">\n                <div class=\"plan-card\">\n                    <div class=\"plan-name\">基础版</div>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"features\">\n                        <li>每月100GB极速流量</li>\n                        <li>支持3台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <div class=\"plan-name\">旗舰版</div>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"features\">\n                        <li>每月300GB极速流量</li>\n                        <li>支持5台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC专线游戏加速优化</li>\n                        <li>7x24优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <div class=\"plan-name\">团队版</div>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"features\">\n                        <li>每月1000GB极速流量</li>\n                        <li>支持20台设备同时在线</li>\n                        <li>VIP专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"section\">\n            <h2>客户端使用指南</h2>\n            <p>下载并使用clashmi客户端非常简单：</p>\n            <ol>\n                <li>访问官网下载适用于您设备的客户端</li>\n                <li>注册账号并选择合适套餐</li>\n                <li>安装完成后打开客户端</li>\n                <li>选择节点连接服务器</li>\n                <li>享受高速稳定网络</li>\n            </ol>\n        </section>\n\n        <section class=\"section\">\n            <h2>常见问题解答</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是clashmi？</summary>\n                    <p>clashmi 是一个专业的VPN加速器平台，提供稳定高速的网络连接服务，帮助用户轻松解锁流媒体和优化网络体验。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>如何下载客户端？</summary>\n                    <p>请访问我们的官方网站下载适用于 Windows、Mac、iOS、Android 等设备的客户端，操作简单快速。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>客户端支持主流操作系统，包括 Windows、macOS、iOS 和 Android，适用于多种设备同时在线。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>流量如何使用？</summary>\n                    <p>每月有固定流量限额，旗舰版和团队版提供更高额度的极速流量，满足日常使用需求。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>客服支持如何？</summary>\n                    <p>我们提供7x24在线客服服务，专业团队随时为您解答问题和提供技术支持。</p>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer class=\"footer\">\n        <p>© 2025 clashmi 官网 - 客户端下载与VPN加速器</p>\n        <p>官方下载地址：https://clashmi.com/download</p>\n    </footer>\n\n",
+          "hash": "a18b8bc6807f5e69f1b78c90ec8dcb8851e750a093a7def51b4f7e96edd58cc5",
+          "seo": {
+            "title": "clashmi 客户端下载 | 优质VPN加速器与官网",
+            "keywords": "clashmi, VPN, 加速器, 客户端下载, 机场",
+            "description": "clashmi 提供专业VPN加速器与客户端下载服务，支持多设备在线，解锁流媒体。选择适合您的套餐，享受高速稳定网络体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nlymedf.cn",
+    "host": "p-b4c9daaf57.nlymedf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2a5ba359cf3cff74f89bf408b456694a7fa2461d47422a1ddc3dc7a2422caad3",
+    "sitemap.xml": "1687410555bccefb65763b916d475605a30b9dcf68128a5a0b0f93ed8067e359",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "717ea69b61b1e7ce659001e721befe82f2b8fd257e2bad651ace0eaba4027e85",
+    "robots.txt": "273b744c5ea6c6a0250ca17df81ae02e205c8fb6993ddf6fb9cb78410556293c",
+    "269f7731abc5899a67a2812f596ca660.txt": "1d1342d295c8c2c2d486c5359ccaf807b5a5c89943ca1a936a17ed35d8f88207"
+  },
+  "revision": "cc37f621c9541591ad4e31ee38b59077a1c484953991128e7d526f2219780f54"
+}
